@@ -16,8 +16,13 @@ Install as editable package `pip3 install -e .`
 Run `testcmd` or `python3 -m testcmd`.
 
 
-
-
 ## Remove
 
 Run `pip3 uninstall logging-example`.
+
+
+## See also
+
+* [Python logging configuration reference](https://docs.python.org/3/howto/logging.html#configuring-logging)
+* [Python Logging Cookbook](https://docs.python.org/3/howto/logging-cookbook.html)
+* [Python Guide - Logging Chapter](https://docs.python-guide.org/writing/logging/)
