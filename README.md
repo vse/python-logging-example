@@ -4,7 +4,7 @@ Just a quick demo of the python logging module and external configuration.
 
 This package installes one module called `testcmd`.
 
-There are some comments in `logging_config.cfg` and in the `testcmd/__init__.py` that should make it easy to tweak and/or overwrite most of the log related settings.
+There are some comments in `logging_config.cfg` and in the `testcmd/__main__.py` that should make it easy to tweak and/or overwrite most of the log related settings.
 
 ## Installation
 
